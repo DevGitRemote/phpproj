@@ -7,4 +7,4 @@ sudo apt install php mysql-client
 sudo apt install php-mysqli
 
 To Login to database
-mysql -h <endpoint_RDS> -u <username> -p
+mysql -h <endpoint_RDS> -u <username> -p 
